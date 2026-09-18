@@ -68,8 +68,7 @@ solutions for real users**.
 - **B.Tech in Computer Science Engineering**
 - S.I.R. Chhotu Ram Institute of Engineering & Technology
 - CCS University Campus, Meerut
-- CGPA: **7.75**
-- SGPA: **7.77**
+
 
 </td>
 
